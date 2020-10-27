@@ -184,13 +184,13 @@ html{
   background-image: url(../img/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg);
 }
 .card:nth-child(6):before {
-  background-image: url();
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg);
 }
 .card:nth-child(7):before {
-  background-image: url();
+  background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQngAHoPDudpyv2taZT21iA67nDJcPOV3glzUkCXWA0bShdEI72);
 }
 .card:nth-child(8):before {
-  background-image: url();
+  background-image: url(https://i.redd.it/jgjn7gkh1pc41.jpg);
 }
 
 .content {
