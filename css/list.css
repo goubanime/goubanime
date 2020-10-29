@@ -12,9 +12,6 @@ html{
 a{
   word-break: break-all !important;
 }
-/* p{
-  word-break: break-all !important;
-} */
 .navbar{
   background: #1b9cfc !important;
   padding-left: 100px !important;
