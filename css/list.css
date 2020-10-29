@@ -138,3 +138,15 @@ p{
   font-size: 15px;
   font-weight: lighter;
 }
+.eps{
+  cursor: pointer;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "title title title time";
+}
+.title { grid-area: title; }
+.time { grid-area: time; }
