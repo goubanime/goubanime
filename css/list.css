@@ -147,3 +147,29 @@ a{
 }
 .title { grid-area: title; }
 .time { grid-area: time; }
+
+.season{
+  font-size: 20px;
+  color: white;
+}
+
+.season:hover{
+
+}
+
+.active{
+  color: #1b9cfc;
+}
+
+.ssss{
+  display: none;
+}
+
+@media (max-width: 469px){
+  .ftmb{
+    display: none;
+  }
+  .ssss{
+    display: block;
+  }
+}
