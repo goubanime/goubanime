@@ -314,3 +314,16 @@ html{
 .mt10{
   margin-top: 200px;
 }
+
+.ssss{
+  display: none;
+}
+
+@media (max-width: 469px){
+  .ftmb{
+    display: none;
+  }
+  .ssss{
+    display: block;
+  }
+}
